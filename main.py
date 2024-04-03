@@ -473,7 +473,7 @@ if __name__ == '__main__':
     print(avg_fpr)
     print('**********')
     test_acc(net,test_loader_in)
-    #torch.save(net.state_dict(), base_root_model + 'SMOT_reg_model_osr_cifar10_resnet18_s100.pth')
+    #torch.save(net.state_dict(), base_root_model + 'voso_reg_model_osr_cifar10_resnet18_s100.pth')
     
     
 
