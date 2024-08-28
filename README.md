@@ -1,2 +1,2 @@
 # VOSo
-code for VOSo
+code for VOSo IJCV
