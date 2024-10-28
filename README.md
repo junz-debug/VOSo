@@ -1,2 +1,2 @@
 # VOSo
-code for VOSo IJCV
+code for "Out-of-Distribution Detection with Virtual Outlier Smoothing" IJCV
